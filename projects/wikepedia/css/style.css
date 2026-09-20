@@ -1,0 +1,26 @@
+h1 {
+    color: #82261F;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+h3 {
+    color: #D4D049;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+summary {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.logo {
+    color: #82261F;
+}
