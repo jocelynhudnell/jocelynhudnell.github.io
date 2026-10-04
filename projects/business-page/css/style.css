@@ -1,0 +1,16 @@
+body{
+    background-color:#705F4D;
+}
+h1,h2,h3,p{
+    text-align: center;
+}
+h2{
+    font-size: small;
+}
+p,h2,summary{
+    font-family:"Space Mono",monospace ;
+}
+ul{
+    text-align:center;
+    list-style-position: inside;
+}
