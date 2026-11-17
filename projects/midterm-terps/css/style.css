@@ -1,0 +1,11 @@
+header{
+    text-align: center;
+    border-bottom: 2px;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+.container{
+    width: 55%;
+}
