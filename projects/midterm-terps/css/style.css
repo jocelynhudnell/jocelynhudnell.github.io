@@ -1,15 +1,59 @@
-header{
+header {
     text-align: center;
-    border-bottom: 2px;
-}
-ul{
-    text-align: center;
-    list-style-type: none;
-}
-.container{
-    width: 55%;
+    border-bottom: 5px solid #C5271D;
 }
 
-.box{
-    color:f5f5f5
+.overline {
+    color: #C5271D;
+    font-weight: bold;
+}
+
+.body {
+    font-family: "Work Sans", sans-serif;
+
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+    font-style: italic;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: medium;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    color: #C5271D;
+}
+
+.container {
+    width: 55%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+@media(max-width:767px) {
+    .container {
+        width: 95%;
+    }
+}
+
+.box {
+    border: 20px solid;
+    margin-bottom: 100px;
+    border-color: #f5f5f5;
+    background-color: #f5f5f5;
+}
+
+#timeline {
+    border-color: #C5271D;
+    background-color: #C5271D;
+    color: white;
 }
